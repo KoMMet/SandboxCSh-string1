@@ -1,0 +1,4 @@
+D:\12.VSWork\console1\console1\obj\Debug\netcoreapp2.0\console1.csprojResolveAssemblyReference.cache
+D:\12.VSWork\console1\console1\obj\Debug\netcoreapp2.0\console1.csproj.CoreCompileInputs.cache
+D:\12.VSWork\console1\console1\obj\Debug\netcoreapp2.0\console1.AssemblyInfoInputs.cache
+D:\12.VSWork\console1\console1\obj\Debug\netcoreapp2.0\console1.AssemblyInfo.cs
